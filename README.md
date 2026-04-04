@@ -31,7 +31,7 @@ removing the risk of manual administrative delay.
 
   - Backend: FastAPI (Asynchronous Middleware for low-latency interception)
       
-  - ORM/Database: SQLAlchemy + SQLite (Forensic Vault & IAM Logic)
+  - Database: SQLAlchemy + SQLite (Forensic Vault & IAM Logic)
       
   - Intelligence: IP-API (Real-time Geospatial Telemetry)
       
